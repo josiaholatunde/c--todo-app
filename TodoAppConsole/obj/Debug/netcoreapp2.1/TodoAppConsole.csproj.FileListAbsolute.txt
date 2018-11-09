@@ -1,0 +1,14 @@
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppConsole.deps.json
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppConsole.runtimeconfig.json
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppConsole.runtimeconfig.dev.json
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppConsole.dll
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppConsole.pdb
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppClassLib.dll
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\bin\Debug\netcoreapp2.1\TodoAppClassLib.pdb
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.csprojAssemblyReference.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.csproj.CoreCompileInputs.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.AssemblyInfoInputs.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.AssemblyInfo.cs
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.csproj.CopyComplete
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.dll
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppConsole\obj\Debug\netcoreapp2.1\TodoAppConsole.pdb

@@ -1,0 +1,9 @@
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\bin\Debug\netstandard2.0\TodoAppClassLib.deps.json
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\bin\Debug\netstandard2.0\TodoAppClassLib.dll
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\bin\Debug\netstandard2.0\TodoAppClassLib.pdb
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.csprojAssemblyReference.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.csproj.CoreCompileInputs.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.AssemblyInfoInputs.cache
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.AssemblyInfo.cs
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.dll
+C:\Users\ogunboyejo\Desktop\Projects\C#TodoApp\TodoAppClassLib\obj\Debug\netstandard2.0\TodoAppClassLib.pdb
