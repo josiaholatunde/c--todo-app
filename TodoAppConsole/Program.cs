@@ -15,16 +15,16 @@ namespace TodoAppConsole
           program._dt = new DataAccess("Data Source=.\\SQLEXPRESS;Database=Todos;Integrated Security=True;");
           while(true)
           {
-               todos = Todo.Select(program._dt);
+              todos = Todo.Select(program._dt);
               for(int i = 0; i < todos.Count; i++)
               {
-                  WriteLine($"{i++} {todos[i].ToString()}");
+                  WriteLine($"{i} {todos[i].ToString()}");
               }
               WriteLine("Select 1 to perform an insert operation or 2 to update or 3 to Exit");
             int userInput = Convert.ToInt32(ReadLine());
             if (userInput == 1)
             {
-                var todo = new Todo(program._dt,"Study C#",Priority.Urgent,new DateTime(2018,10,25),new DateTime(2018,10,25,22,30,34),Status.NotDone);
+                var todo = new Todo(program._dt,"Study Python",Priority.Urgent,new DateTime(2019,10,29),new DateTime(2018,10,29,20,30,34),Status.NotDone);
                 todo.Save();
             } else if (userInput == 2) {
                 WriteLine("Enter the index of the todo you wish to update");
